@@ -1,0 +1,4 @@
+com\sbs\speakingclock\SwaggerConfig.class
+com\sbs\speakingclock\SpeakingClockApplication.class
+com\sbs\speakingclock\controller\TimeController.class
+com\sbs\speakingclock\service\TimeService.class
