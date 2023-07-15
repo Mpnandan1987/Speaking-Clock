@@ -118,7 +118,7 @@ The Speaking Clock project provides the following API endpoints:
 
 ## Documentation
 
-	The project uses Swagger for API documentation. You can access the Swagger documentation 	by opening the following URL in your web browser: [http://localhost:8080/swagger-ui/index.html]	(http://localhost:8080/swagger-ui/index.html)
+	The project uses Swagger for API documentation. You can access the Swagger documentation 	by opening the following URL in your web browser: [http://localhost:8080/swagger-ui/index.html]
 
 
 ## Authors
