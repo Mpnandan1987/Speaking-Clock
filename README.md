@@ -8,6 +8,7 @@
 	- Spring Boot
 	- Maven
 	- Swagger
+ 	- Junit 5
 
 ## Prerequisites
 
